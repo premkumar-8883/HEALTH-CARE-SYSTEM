@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Emergency Management System",
+  "description": "Comprehensive emergency medical response system coordinating SOS dispatch, ambulance tracking, hospital emergency capacities, and real-time doctor assistance.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
